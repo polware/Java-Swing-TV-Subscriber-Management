@@ -2,5 +2,5 @@
 Una pequeña aplicación de Java + Swing.
 
 ## Output
- ### Top News page
+ ### Main
 ![Main](Images/MainScreen.jpg)
